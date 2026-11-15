@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of the Dark",
+  "description": "A third-person 3D sonar puzzle-adventure where every Echo Core pulse reveals hidden ruins, balances stealth against sound-hunting sentinels, and uncovers a forgotten subterranean world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
