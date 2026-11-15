@@ -3,10 +3,9 @@
 > **"In a world without light, every echo tells a story."** — *Every echo reveals a forgotten world.*
 
 [![CI](https://github.com/fahim1252375-maker/echoes-of-the-dark-3/actions/workflows/ci.yml/badge.svg)](https://github.com/fahim1252375-maker/echoes-of-the-dark-3/actions/workflows/ci.yml)
-![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-blue?logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![React](https://img.shields.io/badge/React-19-149eca?logo=react)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?logo=threedotjs)
-![License](https://img.shields.io/badge/License-Not%20specified-lightgrey)
 
 A full-stack third-person 3D acoustic-spatial puzzle-adventure browser game built with **Three.js**, **React 19**, **TypeScript**, **Express.js**, **MongoDB Atlas**, and **Gemini AI (`@google/genai`)**.
 
